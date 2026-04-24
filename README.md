@@ -1,2 +1,3 @@
 # My Project
-my-first-repo
+
+It's a git project
